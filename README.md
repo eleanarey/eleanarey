@@ -1,8 +1,9 @@
-#Hola soy Eleana Rey,
-   ##Soporte Técnico Internacional N2
-   
-##Perfil
-Soy egresada de Ingeniería en Sistemas (2016). Actualmente doy Soporte como SysAdmin en entorno Windows. Entre las herramientas y tecnologías que utilizo se encuentran Ticketing con Remedy, Microsoft SQL Server, Zabbix, Jira, Confluence, Grafana, Microsoft Power BI, cmd, etc. para el CAU de INDITEX.
+<p align="center" width="300">
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png" />
+   <h3 align="center">¡👋Hola soy Eleana Rey🏻‍💻</h3>
+</p>
+
+<p align="center">Soy egresada de <strong>Ingeniería en Sistemas</strong> y actualmente doy Soporte como SysAdmin en entorno Windows. Entre las herramientas y tecnologías que utilizo se encuentran Ticketing con Remedy, Microsoft SQL Server, Zabbix, Jira, Confluence, Grafana, Microsoft Power BI, cmd, etc. .<br /></p>
 
 ##Idiomas
 Español nativo
