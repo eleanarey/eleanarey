@@ -4,9 +4,7 @@
 
 <p align="center">Soy egresada de <strong>Ingeniería en Sistemas</strong> y actualmente doy Soporte como SysAdmin en entorno Windows. Entre las herramientas y tecnologías que utilizo se encuentran Ticketing con Remedy, Microsoft SQL Server, Zabbix, Jira, Confluence, Grafana, Microsoft Power BI, cmd, etc. .<br /></p>
 
-Idiomas
-Español nativo
-Inglés competencia básica, en proceso de mejora.
+
 
 
 
